@@ -37,4 +37,4 @@ This is a personal learning repo, but suggestions and improvements are always we
 ## 📌 Note
 
 Some notebooks or scripts may require you to download additional resources (like `punkt` for tokenization in NLTK).  
-Please check the comments in each script for guidance.
+Please check the comments in each script for guidance or the info.txt file.
